@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AppBarUtils</id>
+    <version>2.5.1</version>
+    <title>AppBarUtils</title>
+    <authors>Allen Lee</authors>
+    <owners>Allen Lee</owners>
+    <licenseUrl>https://github.com/allenlooplee/AppBarUtils/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/allenlooplee/AppBarUtils</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>AppBarUtils provides out-of-box app bar behaviors/triggers/actions for Windows Phone SDK 8.0. They enable you to do command binding (also binding for other properties) for app bar buttons/menu items, make use of the built-in Blend SDK and 3rd party behaviors, and dynamically show different app bars for different pano/pivot items or based on different page states.</description>
+    <releaseNotes>Fix two issues, one for the IsEnabled for a checked command, the other for the IsCheck state. Thanks @frostieDE for the contribution! See the demo code from GitHub for how to use this new feature.
+
+Note: Windows Phone SDK 7.x is no longer supported from this release on.</releaseNotes>
+    <copyright />
+  </metadata>
+</package>

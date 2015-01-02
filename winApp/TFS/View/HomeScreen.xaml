@@ -1,0 +1,147 @@
+﻿<phone:PhoneApplicationPage BackKeyPress="PhoneApplicationPage_BackKeyPress"
+    x:Class="TFS.View.HomeScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False"
+    xmlns:local="clr-namespace:TFS.ViewModel">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Black" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid Name="grd" Background="White" Height="80">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid  Margin="0, 12, 0 , 12"  Background="White">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                  
+                    <Button Grid.Column="0" Width="60" Style="{StaticResource ButtonStyle2}">
+                        <Image  Source="/Assets/Home/search@-wvga.png" Stretch="None" Width="50"/>
+                    </Button>
+                    
+                    <TextBox Grid.Column="1" x:Name="txtSearchHome" Foreground="#777777" Background="#FFFFFF" Style="{StaticResource TextBoxStyle1}"
+                           FontSize="21" Height="46"/>
+                </Grid>
+
+                <Border Margin="0, 12, 12 ,12"  Grid.Column="1" BorderThickness="3 0 0 0" BorderBrush="#DDDDDD" Background="White">
+                    <Button Width="60" Style="{StaticResource ButtonStyle2}">
+                        <Image Source="/Assets/Home/favorites@-wvga.png" Stretch="None" />
+                    </Button>
+                </Border>              
+                
+            </Grid>
+    
+            <maps:Map  Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" 
+                      x:Name="TFSMap" Height="520" Width="480" Margin="0 0 0 12" />
+
+            <Button Grid.Column="1" Grid.Row="1" Click="CurrentLocationClick" 
+                    VerticalAlignment="Top" HorizontalAlignment="Right" Margin="12" Width="60" Style="{StaticResource ButtonStyle2}">
+                <Image  Source="/Assets/Home/locationdetect@-wvga.png" Stretch="None" />
+            </Button>            
+
+        </Grid>
+
+        <Grid Name="grdCarSelect" Grid.Row="2" Height="100">
+            
+        </Grid>
+        
+        <Popup Name="popupCitySelection" IsOpen="{Binding IsVisible, Mode=TwoWay}" >
+            <Grid Height="854" Width="480"> 
+                <Grid.Background>
+                    <SolidColorBrush Color="#404041" Opacity="0.9"></SolidColorBrush>
+                </Grid.Background>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Name="MainGrid" Height="768">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0" Height="120">
+                        <Grid  Margin="20 30 20 0" Background="#FFFFFF" Height="46">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Name="txtSearchBak" Text="Select City"  Background="#FFFFFF" BorderThickness="0" Style="{StaticResource TextBoxStyle1}"
+                                FontSize="21" Foreground="#DDDDDD" Height="46"/>
+
+                            <TextBox x:Name="txtSearchCity" Opacity="0" Foreground="#777777" Background="#FFFFFF" Style="{StaticResource TextBoxStyle1}"
+                                VerticalAlignment="Center" CaretBrush="#777777" FontSize="21" Height="46" LostFocus="CitySearch_LostFocus" 
+                                GotFocus="CitySearch_GotFocus" Text="{Binding txtSearch, Mode=TwoWay}" />
+
+                            <Button Grid.Column="1" Command="{Binding btnSearchCity}" HorizontalAlignment="Right" Width="60" Style="{StaticResource ButtonStyle2}">
+                                <Image  Source="/Assets/Home/search@-wvga.png" Stretch="None" />
+                            </Button>
+
+                                                       
+                        </Grid>
+                    </Grid>
+
+                    <Line Grid.Row="1" X1="0" X2="480" Stroke="White" StrokeThickness="5"></Line>
+
+                    <ListBox Name="listCities" ItemsSource="{Binding DataSource}" SelectionChanged="ListBox_SelectionChanged" Grid.Row="2" Margin="20" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <TextBlock Margin="50 15 20 15" Foreground="#FFFFFF" FontSize="25" Text="{Binding City}"/>
+                                    <Line Grid.Row="1" X1="0" X2="480" Stroke="#DDDDDD" StrokeThickness="4"></Line>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </Grid>
+            
+        </Popup>
+          
+    </Grid>
+    
+    
+    
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="#58595B" ForegroundColor="#FFFFFF">
+            <shell:ApplicationBarIconButton IconUri="Assets/next.png" Text="Book Now"/>
+            <shell:ApplicationBarIconButton IconUri="Assets/next.png" Text="Book Later"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Profile" />
+                <shell:ApplicationBarMenuItem Text="my trips" />
+                <shell:ApplicationBarMenuItem Text="fare chart" />
+                <shell:ApplicationBarMenuItem Text="settings" />
+                <shell:ApplicationBarMenuItem Text="about us" />
+                <shell:ApplicationBarMenuItem Text="write to us" />
+                <shell:ApplicationBarMenuItem Text="rate us" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

@@ -1,0 +1,502 @@
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\App.g.cs
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\MainPage.g.cs
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Forgotpassword.g.cs
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Signin.g.cs
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Signup.g.cs
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.g.resources
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.Resources.AppResources.resources
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\ApplicationIcon.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS.pdb
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Newtonsoft.Json.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Newtonsoft.Json.xml
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.xml
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.xml
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.pdb
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\AppManifest.xaml
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Properties\WMAppManifest.xml
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS_Debug_AnyCPU.xap
+D:\chandana\project\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\XapCacheFile.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\ApplicationIcon.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS.pdb
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\AppManifest.xaml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Properties\WMAppManifest.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\TFS_Debug_AnyCPU.xap
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Newtonsoft.Json.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Newtonsoft.Json.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\App.g.cs
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\MainPage.g.cs
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Forgotpassword.g.cs
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.g.resources
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.Resources.AppResources.resources
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.pdb
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\XapCacheFile.xml
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\AppBarUtils.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\System.Windows.Interactivity.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\Bin\Debug\Assets\next.png
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Signin.g.cs
+D:\Syam\Syam\Projects\Windows Phone\SVN TFS\Code Base\TFS - Consumer Apps\TFS\TFS\obj\Debug\View\Signup.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\next.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\TFS.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\TFS.pdb
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\AppManifest.xaml
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\TFS_Debug_AnyCPU.xap
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\AppBarUtils.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\System.Net.Http.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\System.Net.Http.xml
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\App.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\MainPage.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\View\Forgotpassword.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\View\SignIn.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\View\Signup.g.cs
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.g.resources
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.Resources.AppResources.resources
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.dll
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\TFS.pdb
+C:\Users\xxx\Downloads\TFS\TFS\TFS\obj\Debug\XapCacheFile.xml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\ApplicationIcon.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\next.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\TFS\TFS\TFS\TFS\Bin\Debug\TFS.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\TFS.pdb
+D:\TFS\TFS\TFS\TFS\Bin\Debug\AppManifest.xaml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Properties\WMAppManifest.xml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\TFS_Debug_AnyCPU.xap
+D:\TFS\TFS\TFS\TFS\Bin\Debug\AppBarUtils.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Newtonsoft.Json.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\System.Net.Http.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\System.Windows.Interactivity.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\Newtonsoft.Json.xml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\System.Net.Http.xml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\System.Net.Http.Primitives.xml
+D:\TFS\TFS\TFS\TFS\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
+D:\TFS\TFS\TFS\TFS\obj\Debug\App.g.cs
+D:\TFS\TFS\TFS\TFS\obj\Debug\MainPage.g.cs
+D:\TFS\TFS\TFS\TFS\obj\Debug\View\Forgotpassword.g.cs
+D:\TFS\TFS\TFS\TFS\obj\Debug\View\SignIn.g.cs
+D:\TFS\TFS\TFS\TFS\obj\Debug\View\Signup.g.cs
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.g.resources
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.Resources.AppResources.resources
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.dll
+D:\TFS\TFS\TFS\TFS\obj\Debug\TFS.pdb
+D:\TFS\TFS\TFS\TFS\obj\Debug\XapCacheFile.xml
+D:\TFS\TFS\TFS\TFS\obj\Debug\View\Page1.g.cs
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\ApplicationIcon.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\next.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\TFS.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\TFS.pdb
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\AppManifest.xaml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Properties\WMAppManifest.xml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\TFS_Debug_AnyCPU.xap
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\AppBarUtils.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Newtonsoft.Json.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\System.Net.Http.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\System.Windows.Interactivity.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\System.Net.Http.Primitives.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Newtonsoft.Json.xml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\System.Net.Http.xml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\System.Net.Http.Primitives.xml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\TFS\gitco\windows_app\TFS\obj\Debug\App.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\MainPage.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\View\Forgotpassword.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\View\SignIn.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\View\Signup.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.g.resources
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.Resources.AppResources.resources
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.dll
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.pdb
+D:\TFS\gitco\windows_app\TFS\obj\Debug\XapCacheFile.xml
+D:\TFS\gitco\windows_app\TFS\Bin\Debug\Assets\Splashscreen\logo_wvga.png
+D:\TFS\gitco\windows_app\TFS\obj\Debug\SplashScreen.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\View\HomeScreen.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\Loader.g.cs
+D:\TFS\gitco\windows_app\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
